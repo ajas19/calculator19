@@ -1,0 +1,22 @@
+{
+  "name": "cal19_lib",
+  "keywords": "calculator,keypad",
+  "description": "calculator using custom keypad",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ajas19/calculator19"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif32"],
+  "author" :
+  [
+     {
+       "name":"ajas",
+       "email":"ajas19@gmail.com",
+       "maintainer": true
+     },
+  ],
+  "headers": "cal19_lib.h"
+}
